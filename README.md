@@ -2,7 +2,7 @@
 
 # 🎓 Planner UN
 
-**Planner UN** es una aplicación académica desarrollada en **Java** que permite organizar y planificar la malla curricular de un programa de pregrado por semestres de forma visual e interactiva.
+**Planner UN** es una aplicación académica desarrollada en **Java** en **2023** que permite organizar y planificar la malla curricular de un programa de pregrado por semestres de forma visual e interactiva para estudiantes de la **_Universidad Nacional de Colombia_**.
 
 ---
 
