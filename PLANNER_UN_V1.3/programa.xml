@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\delog\OneDrive\Escritorio\PROYECTOS PERSONALES\ACOMODADOR DE MALLA (JAVA)\PLANNER_UN_V1.3\mallaCurricular.jar</jar>
+  <outfile>C:\Users\delog\OneDrive\Escritorio\PLANNERUN.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>https://www.java.com/es/download/ie_manual.jsp</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\delog\OneDrive\Escritorio\PROYECTOS PERSONALES\ACOMODADOR DE MALLA (JAVA)\logo-planner.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.7</minVersion>
+    <maxVersion>1.8.0_351</maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.3.0.0</fileVersion>
+    <txtFileVersion>1.3</txtFileVersion>
+    <fileDescription>define en cuanto acabras tu carrera hoy</fileDescription>
+    <copyright>Daniel Garzon and Cristian Garcia</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0</txtProductVersion>
+    <productName>PLANNER UN</productName>
+    <companyName></companyName>
+    <internalName>plannerUn</internalName>
+    <originalFilename>mallacurricular.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>SPANISH_MEXICO</language>
+  </versionInfo>
+</launch4jConfig>

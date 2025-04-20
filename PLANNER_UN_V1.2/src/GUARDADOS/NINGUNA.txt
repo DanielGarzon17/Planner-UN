@@ -1,0 +1,1 @@
+semestre;posicion;nombre;codigo;creditos;tipo;prerrequisitos;
