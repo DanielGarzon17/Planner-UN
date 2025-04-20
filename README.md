@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/c736803a-b1ca-46a0-b881-b2b30ece9a2e)
+
 # 🎓 Planner UN
 
 **Planner UN** es una aplicación académica desarrollada en **Java** que permite organizar y planificar la malla curricular de un programa de pregrado por semestres de forma visual e interactiva.
